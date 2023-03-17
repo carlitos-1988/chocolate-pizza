@@ -2,13 +2,18 @@
 header {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
     padding-top: 30px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .logo {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .div-container {
@@ -17,10 +22,15 @@ header {
     padding-left: 10px;
 }
 
-.socials {
-    padding-left: 200px;
-}
 
+#repeathr {
+    background-image: url("/photos/hr-img.png");
+    background-repeat: space;
+    height: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
 /* .logo {
     display: flex;
     flex-direction: row;

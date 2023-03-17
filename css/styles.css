@@ -1,0 +1,36 @@
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+}
+
+.div-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+}
+
+.socials {
+    padding-left: 200px;
+}
+
+/* .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
+
+.socials {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+} */
+
+

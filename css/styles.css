@@ -10,16 +10,25 @@ header {
     margin-right: 10%;
 }
 
-.logo {
+.row {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.div-container {
+.p-icon {
+    float: right;
+}
+
+.column-container {
     display: flex;
     flex-direction: column;
     padding-left: 10px;
+}
+
+.column-main {
+    display: flex;
+    flex-direction: column;
 }
 
 
@@ -31,16 +40,20 @@ header {
     margin-right: 10%;
     margin-top: 30px;
 }
-/* .logo {
-    display: flex;
-    flex-direction: row;
-    justify-content: start;
+
+main {
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
-.socials {
-    display: flex;
-    flex-direction: row;
-    justify-content: end;
-} */
+.chocoimg {
+    width: 100%;
+    padding-top: 20px;
+}
 
+.listpic {
+    width: 100%;
+}
 

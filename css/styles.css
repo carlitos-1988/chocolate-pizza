@@ -1,4 +1,24 @@
 
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.opacp {
+    opacity: 40%;
+}
+
+.pbegin {
+    opacity: 90%;
+}
+
+
 header {
     display: flex;
     flex-direction: row;

@@ -69,6 +69,7 @@ main {
 .chocoimg {
     width: 100%;
     padding-top: 20px;
+    border: 15px inset #c2b9b8;
 }
 
 
